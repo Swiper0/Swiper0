@@ -14,7 +14,7 @@ Hello! My name is Hanson Nicholas, a 5th-semester student at Universitas Taruman
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/Swiper0/Virtual-Lockdown"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/VirtualLockDownDemo.gif"></a>
+        <a href = "https://github.com/Swiper0/Virtual-Lockdown"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/VirtualLockdownDemo.gif"></a>
       </td>
       <td>
         <a href = "https://github.com/Swiper0/Last-Quiver"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/LastQuiverDemo.gif"></a>
