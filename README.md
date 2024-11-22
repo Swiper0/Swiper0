@@ -14,10 +14,10 @@ Hello! My name is Hanson Nicholas, a 5th-semester student at Universitas Taruman
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/Swiper0/Virtual-Lockdown"><img width="100%" src=""></a>
+        <a href = "https://github.com/Swiper0/Virtual-Lockdown"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/VirtualLockDownDemo.gif"></a>
       </td>
       <td>
-        <a href = "https://github.com/Swiper0/Last-Quiver"><img width="100%" src=""></a>
+        <a href = "https://github.com/Swiper0/Last-Quiver"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/LastQuiverDemo.gif"></a>
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ Hello! My name is Hanson Nicholas, a 5th-semester student at Universitas Taruman
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/Swiper0/Aim-Zone"><img width="100%" src=""></a>
+        <a href = "https://github.com/Swiper0/Aim-Zone"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/AimZoneDemo.gif"></a>
       </td>
     </tr>
     <tr>
