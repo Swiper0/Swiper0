@@ -47,4 +47,3 @@ Hello! My name is Hanson Nicholas, a 5th-semester student at Universitas Taruman
 
 ## 📩 Contact Me
 - **Email**: hansonsandy0406@gmail.com
-- **WhatsApp**: 089613333251
