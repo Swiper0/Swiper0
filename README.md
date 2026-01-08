@@ -1,6 +1,6 @@
 # Hi, I'm Hanson Nicholas
 ---
-Hello! My name is Hanson Nicholas, a 5th-semester student at Tarumanagara University majoring in Informatics Engineering. I am passionate about developing innovative and engaging applications, especially in the field of game development. With a strong foundation in programming and problem-solving, I aim to create interactive experiences that combine creativity and technology. Through my journey as a developer, I am eager to continue learning and contributing to impactful projects that push the boundaries of user engagement.</br>
+Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara University majoring in Informatics Engineering. I am passionate about developing innovative and engaging applications, especially in the field of game development. With a strong foundation in programming and problem-solving, I aim to create interactive experiences that combine creativity and technology. Through my journey as a developer, I am eager to continue learning and contributing to impactful projects that push the boundaries of user engagement.</br>
 
 ## Games that I made:
 
