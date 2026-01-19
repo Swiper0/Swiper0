@@ -24,7 +24,11 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
       <td valign="text-top">Virtual Lockdown is a VR escape room game designed for VR Cardboard, where players must search for password codes hidden within the room. Using hints scattered throughout the environment, players will piece together clues to uncover the correct code and unlock the room. 
       <a href="https://github.com/Swiper0/Virtual-Lockdown">Details</a></td></td>
       <td valign="text-top">Last Quiver is a 2D top-down roguelike game where players must survive relentless waves of enemy attacks. Players control an archer, using the mouse to aim at enemies and shoot arrows to defeat them. The game features a scoring system based on the number of enemies defeated, along with power-ups and item drops that enhance gameplay, offering a dynamic and thrilling survival experience.
-      <a href="https://github.com/Swiper0/Last-Quiver">Details</a></td>
+      <a href="https://github.com/Swiper0/Last-Quiver">Details</a>
+      <a href="https://swiperx.itch.io/last-quiver" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Play_Online-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Online">
+        </a>
+      </td>
     </tr>
   </tbody>
   <thead>
