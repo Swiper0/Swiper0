@@ -30,6 +30,7 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
   <thead>
     <tr>
       <th width="50%"><a>Aim Zone</a></th>
+      <th width="50%"><a>Cashier Simulator</a></th>
     </tr>
   </thead>
   <tbody>
@@ -45,6 +46,10 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
           <img src="https://img.shields.io/badge/Play_Online-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Online">
         </a>
         </td>
+      <td valign="text-top">Cashier Simulator is a 3D interactive simulation game where you take on the role of a cashier in a quiet convenience store. Players interact with items by simply clicking on them to “scan” each product, then calculate and hand back the correct change or enter payment amounts on a card terminal.  
+      <a href="https://github.com/Swiper0/Cashier-Simulator">Details</a><br><br>
+        <a href="https://swiperx.itch.io/cashier-simulator-unitytes" target="_blank" rel="noopener noreferrer">
+      </td>
     </tr>
   </tbody>
 </table>
