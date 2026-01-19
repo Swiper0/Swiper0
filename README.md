@@ -38,6 +38,9 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
       <td>
         <a href = "https://github.com/Swiper0/Aim-Zone"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/AimZoneDemo.gif"></a>
       </td>
+      <td>
+        <a href = "https://github.com/Swiper0/Cashier-Simulator"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/CashierSimulatorDemo.gif"></a>
+      </td>
     </tr>
     <tr>
       <td valign="top"> Aim Zone is a 3D FPS game set in a shooting range environment, designed to test players' aiming skills. The game features three difficulty levels: Easy, Normal, and Hard, catering to players of all skill levels. A scoring system tracks performance based on the number of targets destroyed, encouraging players to improve their accuracy and reaction time. Additionally, the game includes immersive animations, such as weapon breath and sprint animations, enhancing the overall gameplay experience with a realistic and engaging touch.<br>
