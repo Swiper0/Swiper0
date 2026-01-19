@@ -41,8 +41,8 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
     <tr>
       <td valign="top"> Aim Zone is a 3D FPS game set in a shooting range environment, designed to test players' aiming skills. The game features three difficulty levels: Easy, Normal, and Hard, catering to players of all skill levels. A scoring system tracks performance based on the number of targets destroyed, encouraging players to improve their accuracy and reaction time. Additionally, the game includes immersive animations, such as weapon breath and sprint animations, enhancing the overall gameplay experience with a realistic and engaging touch.<br>
         <a href="https://github.com/Swiper0/Aim-Zone">Details</a><br><br>
-        <a href="https://swiperx.itch.io/aim-zone" target="_blank">
-        <button style="padding: 8px 16; background-color: #4CAF50; color: white; border: 2px solid #45a049; border-radius: 4px; cursor: pointer; font-weight: bold;">Play Online</button>
+        <a href="https://swiperx.itch.io/aim-zone" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Play_Online-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Online">
         </a>
         </td>
     </tr>
