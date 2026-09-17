@@ -79,10 +79,9 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
   <tbody>
     <tr>
       <td>
-        <a href = "https://github.com/Swiper0/Dungeon-Barrage"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/DungeonBarrageDemo.gif" alt="Dungeon Barrage"></a>
+        <a href="https://github.com/Swiper0/Dungeon-Barrage"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/DungeonBarrage.gif"></a>
       </td>
       <td>
-        <!-- Kosong untuk project game masa depan -->
       </td>
     </tr>
     <tr>
@@ -91,7 +90,6 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
         <a href="https://github.com/Swiper0/Dungeon-Barrage">Details</a>
       </td>
       <td valign="top">
-        <!-- Kosong -->
       </td>
     </tr>
   </tbody>
@@ -101,7 +99,7 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
 
 <ul>
   <li>
-    <b>Opinion Analysis on Free Nutritious Meal Program Using FastText (NLP)</b><br>
+    <b>Analisis Opini Terhadap Program Makan Bergizi Gratis Dengan Metode FastText</b><br>
     A Natural Language Processing (NLP) project that performs sentiment analysis on YouTube comments regarding the controversial Free Nutritious Meal (Makan Bergizi Gratis) program in Indonesia. Built using Python and the FastText algorithm, this project classifies public opinion into positive, neutral, and negative sentiments, analyzing public perspectives before and after the program's implementation. The project also features a Streamlit web interface for easy prediction, including single-sentence input, YouTube API integration for video comments, and CSV file processing.<br>
     <a href="https://github.com/Swiper0/NLP-Klasifikasi-Komentar-MBG-Dengan-FastText">Details</a>
   </li>
