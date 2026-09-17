@@ -70,33 +70,25 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
 </td>
     </tr>
   </tbody>
-  <!-- DITAMBAHKAN: Bagian Dungeon Barrage -->
   <thead>
     <tr>
       <th width="50%"><a>Dungeon Barrage</a></th>
-      <th width="50%"><a>Coming Soon</a></th>
+      <th width="50%"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <!-- Sesuaikan link github dan path GIF di bawah -->
         <a href = "https://github.com/Swiper0/Dungeon-Barrage"><img width="100%" src="https://github.com/Swiper0/Swiper0/blob/main/GIF/DungeonBarrageDemo.gif" alt="Dungeon Barrage"></a>
       </td>
       <td>
-        <!-- Kosong atau tambahkan gambar placeholder untuk project masa depan -->
+        <!-- Kosong untuk project game masa depan -->
       </td>
     </tr>
     <tr>
       <td valign="top">
-        [TULIS DESKRIPSI DUNGEON BARRAGE DI SINI, contoh: Dungeon Barrage is a ... where players must ...]<br>
-        <a href="https://github.com/Swiper0/Dungeon-Barrage">Details</a><br><br>
-        <div style="text-align:center">
-          <!-- Sesuaikan link itch.io di bawah jika game bisa dimainkan online -->
-          <a href="https://swiperx.itch.io/dungeon-barrage" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Play_Online-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Online">
-          </a>
-        </div>
+        Dungeon Barrage is a 2D Bullet Hell Shooter game with an Endless Wave system designed specifically for Android mobile platforms. Developed using Unity and C#, players control a character surviving relentless waves of enemies in an underground dungeon. The game features a unique projectile absorption mechanic, allowing players to absorb enemy bullets when stationary and convert them into energy to unleash powerful counterattacks. It also includes random power-up drops and a shop system for character skins.<br>
+        <a href="https://github.com/Swiper0/Dungeon-Barrage">Details</a>
       </td>
       <td valign="top">
         <!-- Kosong -->
@@ -107,35 +99,13 @@ Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara Univer
 
 ## 🚀 Other Projects
 
-<!-- Saya menggunakan format tabel yang sama agar rapi, Anda bisa mengubahnya menjadi list jika tidak ada gambar/GIF -->
-<table style="text-align: center;">
-  <thead>
-    <tr>
-      <th width="50%"><a>[Nama Project 1]</a></th>
-      <th width="50%"><a>[Nama Project 2]</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href = "[Link GitHub Project 1]"><img width="100%" src="[Link Gambar/GIF Project 1]"></a>
-      </td>
-      <td>
-        <a href = "[Link GitHub Project 2]"><img width="100%" src="[Link Gambar/GIF Project 2]"></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        [Deskripsi singkat tentang project 1 Anda.]<br>
-        <a href="[Link GitHub Project 1]">Details</a>
-      </td>
-      <td valign="top">
-        [Deskripsi singkat tentang project 2 Anda.]<br>
-        <a href="[Link GitHub Project 2]">Details</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+  <li>
+    <b>Opinion Analysis on Free Nutritious Meal Program Using FastText (NLP)</b><br>
+    A Natural Language Processing (NLP) project that performs sentiment analysis on YouTube comments regarding the controversial Free Nutritious Meal (Makan Bergizi Gratis) program in Indonesia. Built using Python and the FastText algorithm, this project classifies public opinion into positive, neutral, and negative sentiments, analyzing public perspectives before and after the program's implementation. The project also features a Streamlit web interface for easy prediction, including single-sentence input, YouTube API integration for video comments, and CSV file processing.<br>
+    <a href="https://github.com/Swiper0/NLP-Klasifikasi-Komentar-MBG-Dengan-FastText">Details</a>
+  </li>
+</ul>
 
 ## 📩 Contact Me
 - **Email**: hansonsandy0406@gmail.com
