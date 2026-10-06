@@ -1,6 +1,26 @@
 # Hi, I'm Hanson Nicholas
 ---
-Hello! My name is Hanson Nicholas, a 8th-semester student at Tarumanagara University majoring in Informatics Engineering. I am passionate about developing innovative and engaging applications, especially in the field of game development. With a strong foundation in programming and problem-solving, I aim to create interactive experiences that combine creativity and technology. Through my journey as a developer, I am eager to continue learning and contributing to impactful projects that push the boundaries of user engagement.</br>
+Hello! My name is Hanson Nicholas, a fresh graduate from Tarumanagara University with a degree in Informatics Engineering. I am passionate about extracting actionable insights from data and developing innovative, engaging applications, specializing in **Data Analysis** and **Game Development**. With a strong foundation in programming, data visualization, and problem-solving, I aim to create interactive experiences and data-driven solutions that combine creativity with technology. Through my journey, I am eager to continue learning and contributing to impactful projects that push the boundaries of user engagement and business optimization.</br>
+
+## 📊 Data Analytics Projects
+
+<ul>
+  <li>
+    <b>Superstore Sales & Profitability Diagnostic Dashboard</b><br>
+    A comprehensive diagnostic project to identify operational inefficiencies, loss-generating product lines, and pricing strategy flaws within a retail business dataset. This repository contains the raw data, the Excel-based analytical engine, and the interactive Tableau dashboard.<br><br>
+    <b>Key Analytical Insights:</b>
+    <ul>
+      <li><b>Loss Leader Identification:</b> <i>Tables</i> and <i>Bookcases</i> act as major loss-leaders, dragging down overall profitability despite high sales volume. Immediate pricing or cost audits are required.</li>
+      <li><b>Regional Disparities:</b> The <i>Central Region</i> exhibits a concerning mismatch between high gross sales and low net profit margins compared to other regions.</li>
+      <li><b>The Discount Trap:</b> Profitability turns sharply negative (into losses) whenever discount rates exceed <b>20%</b>. Excessive discounting destroys margins without yielding sustainable growth.</li>
+      <li><b>Customer Segments:</b> The <i>Consumer Segment</i> dominates overall revenue generation (~50%+), making discount governance critical, especially during promotional campaigns.</li>
+    </ul>
+    <br>
+    <a href="https://github.com/Swiper0/Superstore-Sales-Profitability-Diagnostic-Dashboard" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+    </a>
+  </li>
+</ul>
 
 ## 🎮 Games that I made:
 
