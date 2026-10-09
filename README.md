@@ -27,6 +27,9 @@ Hello! My name is Hanson Nicholas, a fresh graduate from Tarumanagara University
           <a href="https://public.tableau.com/app/profile/hanson.nicholas/viz/MobileGamePlayerBehaviorRevenueAnalytics/Dashboard1" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/View_Dashboard-E9762B?style=for-the-badge&logo=tableau&logoColor=white" alt="View Dashboard">
           </a>
+          <a href="https://github.com/Swiper0/Mobile-Game-Player-Behavior-Revenue-Analytics/raw/main/mobile_game_inapp_purchases%20-%20Dashboard.xlsx" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Download_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Download Excel">
+          </a>
         </div>
       </td>
       <td valign="top" align="left">
